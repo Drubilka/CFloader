@@ -28,7 +28,7 @@ CFloader is a mod for loading custom maps that are made with unity. It's differe
 
 ## Help
 
-* You can find step by step for map creators [here](https://github.com/Drubilka/CFloader/wiki)
+* You can find step by step guide for map creators [here](https://github.com/Drubilka/CFloader/wiki)
 * If you need help please go to [ZML-> cfloader-feedback](https://discord.com/channels/935587204170915890/953408311334678618)
 
 ## Authors
